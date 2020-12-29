@@ -4,7 +4,7 @@ using System.IO;
 using System.Security.Cryptography;
 
 // CRC32 classes used in this project
-// are available in http://www.codeproject.com/useritems/CRC32_DotNet.asp
+// are available on http://www.codeproject.com
 namespace CodeProject
 {
 	/// <summary>
